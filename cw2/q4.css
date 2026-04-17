@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline wavy;
+    color: chocolate;
+    border: 5px red dashed;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: lowercase;
+    text-decoration: underline dashed;
+    color: darkgreen;
+    border: 5px red dotted;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    border: 5px red dashed;
+}

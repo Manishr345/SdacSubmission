@@ -1,0 +1,125 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background: linear-gradient(120deg,
+                    rgb(245, 245, 122), rgb(214, 169, 87), rgb(222, 94, 94), rgb(215, 98, 118), violet, rgb(96, 96, 226));
+            animation: gd 2s ease infinite;
+            background-size: 300% 300%;
+        }
+
+        @keyframes gd {
+
+            0%,
+            100% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100%;
+            }
+
+        }
+
+        .container {
+            box-shadow: 5px 5px 20px black;
+            border-radius: 10px;
+            margin: 30px;
+        }
+
+        table {
+            width: 100%;
+            text-align: center;
+            border-collapse: collapse;
+
+        }
+
+        thead th {
+            padding: 10px;
+            background-color: rgb(12, 144, 144);
+            border-radius: 10px;
+        }
+
+        tbody td {
+            padding: 10px;
+            transition: 1.5s ease;
+        }
+
+        td:hover {
+            background-color: antiquewhite;
+            /* transform: perspective(100px) rotateY(360deg); */
+            /* transform: perspective(100px) rotateY(360deg); */
+            transform: scale(1.5);
+            /* transform: translate(30px, 30px); */
+        }
+
+        tbody tr:nth-child(even) {
+            background-color: rgb(110, 207, 236);
+        }
+
+        td::before {
+            content: '😊';
+        }
+
+        th::before {
+            content: '✨';
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <table>
+            <thead>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Salary</th>
+                <th>Designation</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Jay</td>
+                    <td>21</td>
+                    <td>30000</td>
+                    <td>Developer</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Jay</td>
+                    <td>21</td>
+                    <td>30000</td>
+                    <td>Developer</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Jay</td>
+                    <td>21</td>
+                    <td>30000</td>
+                    <td>Developer</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Jay</td>
+                    <td>21</td>
+                    <td>30000</td>
+                    <td>Developer</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Jay</td>
+                    <td>21</td>
+                    <td>30000</td>
+                    <td>Developer</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>

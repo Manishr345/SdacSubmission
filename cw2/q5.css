@@ -1,0 +1,25 @@
+.main {
+    height: 20rem;
+    width: 20rem;
+    background-color: cornflowerblue;
+    margin: auto;
+    padding: 2rem;
+}
+
+.para {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline wavy;
+    color: rgb(38, 21, 10);
+    border: 5px red dashed;
+    font-size: 20px;
+}
+
+.span {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: lowercase;
+    text-decoration: underline dashed;
+    color: rgb(9, 50, 9);
+    border: 5px rgb(73, 47, 219) dotted;
+    font-size: 30px;
+}

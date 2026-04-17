@@ -1,0 +1,26 @@
+#btn {
+    height: 50px;
+    width: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    background-color: black;
+    color: white;
+    border: 5px red dashed;
+}
+
+#para {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline wavy;
+    color: rgb(38, 21, 10);
+    border: 5px red dashed;
+    font-size: 20px;
+}
+
+#heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline wavy;
+    color: chocolate;
+    border: 5px red dashed;
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><img src="https://static.vecteezy.com/system/resources/thumbnails/005/183/355/small/travel-agency-logo-template-holiday-logo-template-beach-logo-concept-vector.jpg" width="200" height="200" border="0" alt="company logo">
+
+ 
+</center>
+  <center><a href="home.html">Home</a>
+  <a href="destinations.html">Destinations</a>
+  <a href="travel blog.html">Travel Blog</a>
+  <a href="login.html">Login</a>
+  <a href="register.html">Register</a>
+  <a href="contact.html">Contact Us</a>
+</center>
+  <hr>
+ <center><h1>Travel kingdom</h1></center>
+
+
+ <center><img src="https://i.pinimg.com/1200x/50/39/fe/5039febc333749d04a49fc747983cf9c.jpg" width="1000" height="500" border="0" alt=""></center>
+
+  <center><caption><strong><em>Explore the World</em></strong></caption></center>
+
+ <center><p>Welcome to the ultimate travel experience </p></center>
+
+ <center><h2>Popular Destinations</h2></center>
+ <center><ul>
+  <li>New Zealand</li> 
+  <li>Paris</li> 
+  <li>Bali</li> 
+ </ul></center>
+  <hr>
+
+  <center>&copy; All rights reserved by Travel Kingdom </center>
+
+  <center><a href="home.html">Home</a>
+  <a href="destinations.html">Destinations</a>
+  <a href="travel blog.html">Travel Blog</a>
+  <a href="login">Login</a>
+  <a href="register.html">Register</a>
+  <a href="contact.html">Contact Us</a>
+</center>
+
+ </body>
+</html>
